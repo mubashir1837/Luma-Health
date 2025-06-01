@@ -20,11 +20,11 @@ A full-stack application leveraging multiple AI models to assist with healthcare
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/mubashir1837/Multi-Model-Health-Care-Assistance.git
+  git clone https://github.com/mubashir1837/Luma-Health.git
   ```
 2. Install dependencies:
   ```bash
-  cd Multi-Model-HealthCare-Assistance
+  cd Luma-Health
   npm install
   ```
 3. Set up environment variables (see `.env.example`).
@@ -39,4 +39,4 @@ Contributions are welcome! Please open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
